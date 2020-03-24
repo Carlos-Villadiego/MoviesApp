@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/mnucolor"
+            android:title="@string/mnucolores"
+            android:orderInCategory="5">
+                <menu >
+                        <item
+                            android:title="@string/color_1"
+                            android:id="@+id/mnucolor1"
+                            />
+                        <item
+                            android:title="@string/color_2"
+                            android:id="@+id/mnucolor2"
+                            />
+                        <item
+                            android:title="@string/color_3"
+                            android:id="@+id/mnucolor3"
+                            />
+                        <item
+                            android:title="@string/color_4"
+                            android:id="@+id/mnucolor4"
+                            />
+                </menu>
+
+        </item>
+</menu>

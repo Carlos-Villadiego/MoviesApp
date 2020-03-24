@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuordenar"
+        android:title="Ordenar por Nombre"
+        android:fontFamily="serif-monospace"/>
+    <item
+        android:id="@+id/mnueliminar"
+        android:title="Eliminar Primero"
+        android:fontFamily="serif-monospace"/>
+    <item
+        android:id="@+id/mnuinvertir"
+        android:title="Invertir Lista"
+        android:fontFamily="serif-monospace"/>
+    <item
+        android:id="@+id/mnurgresar"
+        android:title="Regresar"
+        android:fontFamily="serif-monospace"/>
+</menu>

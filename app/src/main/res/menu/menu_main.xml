@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/mnulistado"
+        android:icon="@android:drawable/ic_menu_set_as"
+        android:title="@string/mnu_listado"
+        android:fontFamily="serif-monospace"/>
+    <item
+        android:id="@+id/mnumayuscula"
+        android:icon="@android:drawable/ic_menu_upload"
+        android:title="@string/mnu_mayuscula"
+        android:fontFamily="serif-monospace"/>
+    <item
+        android:id="@+id/mnuminuscula"
+        android:title="Minuscula"
+        android:fontFamily="serif-monospace"/>
+</menu>

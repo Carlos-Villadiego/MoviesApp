@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Spinner_Genero">
+        <item>Seleccione el genero</item>
+        <item>Terror</item>
+        <item>Accion</item>
+        <item>Comedia</item>
+        <item>Romance</item>
+        <item>Suspenso</item>
+        <item>Ciencia Ficcion</item>
+        <item>Infantil</item>
+        <item>Documental</item>
+        <item>Drama</item>
+    </string-array>
+</resources>
